@@ -1,10 +1,10 @@
 # Syllabus
-Parsons School of Design
-Communication Design Department
-**Creative Computing**
-PUCD 2035; 5487
-Fall 2016
-6 East 16th Street #1108
+Parsons School of Design  
+Communication Design Department  
+**Creative Computing**  
+PUCD 2035; 5487  
+Fall 2016  
+6 East 16th Street #1108  
 
 Ariel Churi
 churia@newschool.edu
@@ -39,7 +39,7 @@ Creative Computing is designed to introduce students to programming as a creativ
 ### Week 05 09/28
 ### Week 06 10/05
 ### Week 07 10/19
---
+-- No class 10/12
 ### Week 08 10/26
 ### Week 09 11/02
 ### Week 10 11/09
@@ -56,9 +56,9 @@ Creative Computing is designed to introduce students to programming as a creativ
 ## Resources
 The university provides many resources to help students achieve academic and artistic excellence. These resources include:
 
-•	The University (and associated) Libraries: http://library.newschool.edu
-•	The University Learning Center: http://www.newschool.edu/learning-center
-•	University Disabilities Service: http://www.newschool.edu/student-disability-services/
+- The University (and associated) Libraries: http://library.newschool.edu
+- The University Learning Center: http://www.newschool.edu/learning-center
+- University Disabilities Service: http://www.newschool.edu/student-disability-services/
 
 In keeping with the university’s policy of providing equal access for students with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately. All conversations will be kept confidential. Students requesting any accommodations will also need to contact Student Disability Service (SDS). SDS will conduct an intake and, if appropriate, the Director will provide an academic accommodation notification letter for you to bring to me. At that point, I will review the letter with you and discuss these accommodations in relation to this course.
 

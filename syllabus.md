@@ -66,52 +66,52 @@ In keeping with the university’s policy of providing equal access for students
 ### Undergraduate
 A student’s final grades and GPA are calculated using a 4.0 scale. Please note that while both are listed here, the 4.0 scale does not align mathematically with the numeric scale based on percentages of 100 points.
 
-**A  [4.0; 95 – 100%]**
+**A  [4.0; 95 – 100%]**  
 Work of exceptional quality, which often goes beyond the stated goals of the course 
 
-**A- [3.7; 90 – <95%]**
+**A- [3.7; 90 – <95%]**  
 Work of very high quality
 
-**B+ [3.3; 87 – <90%]**
+**B+ [3.3; 87 – <90%]**  
 Work of high quality that indicates higher than average abilities
 
-**B  [3.0; 83 – <87%]**
+**B  [3.0; 83 – <87%]**  
 Very good work that satisfies the goals of the course
 
-**B- [2.7; 80 – <83%]**
+**B- [2.7; 80 – <83%]**  
 Good work
 
-**C+ [2.3; 77 – <80%]**
+**C+ [2.3; 77 – <80%]**  
 Above-average work
 
-**C  [2.0; 73 – <77%]**
+**C  [2.0; 73 – <77%]**  
 Average work that indicates an understanding of the course material; passable 
 Satisfactory completion of a course is considered to be a grade of C or higher.
 
-**C- [1.7; 70 – <73%]**
+**C- [1.7; 70 – <73%]**  
 Passing work but below good academic standing
 
-**D  [1.0; 60 – <70%]**
+**D  [1.0; 60 – <70%]**  
 Below-average work that indicates a student does not fully understand the assignments; 
 Probation level though passing for credit
 
-**F  [0.0; 0 – <60%]**
+**F  [0.0; 0 – <60%]**  
 Failure, no credit
 
-**Grade of W**
+**Grade of W**  
 The grade of W may be issued by the Office of the Registrar to a student who officially withdraws from a course within the applicable deadline. There is no academic penalty, but the grade will appear on the student transcript. A grade of W may also be issued by an instructor to a graduate student (except at Parsons and Mannes) who has not completed course requirements nor arranged for an Incomplete.
 
-**Grade of Z**
+**Grade of Z**  
 The grade of Z is issued by an instructor to a student who has not attended or not completed all required work in a course but did not officially withdraw before the withdrawal deadline. It differs from an “F,” which would indicate that the student technically completed requirements but that the level of work did not qualify for a passing grade. 
 
-**Grades of Incomplete** 
+**Grades of Incomplete**   
 The grade of I, or temporary incomplete, may be granted to a student under unusual and extenuating circumstances, such as when the student’s academic life is interrupted by a medical or personal emergency. This mark is not given automatically but only upon the student’s request and at the discretion of the instructor. A Request for Incomplete form must be completed and signed by student and instructor. The time allowed for completion of the work and removal of the “I” mark will be set by the instructor with the following limitations: [You should include one the following standards, depending on the level of your course].
 
 Undergraduate students: Work must be completed no later than the seventh week of the following fall semester for spring or summer term incompletes and no later than the seventh week of the following spring semester for fall term incompletes. Grades of “I” not revised in the prescribed time will be recorded as a final grade of “WF” by the Office of the Registrar. 
 
 Graduate students: Work must be completed no later than one year following the end of the class. Grades of “I” not revised in the prescribed time will be recorded as a final grade of “WF” (for Parsons and Mannes graduate students) or “N” (for all other graduate students) by the Office of the Registrar. The grade of “N” does not affect the GPA but does indicate a permanent incomplete. 
 
-## Divisional, Program and Class Policies [You should include the following headings with the recommended text. In addition, you should include any other policies you may have.]
+## Divisional, Program and Class Policies 
 
 ● Responsibility 
 Students are responsible for all assignments, even if they are absent.  Late assignments, failure to complete the assignments for class discussion and/or critique, and lack of preparedness for in-class discussions, presentations and/or critiques will jeopardize your successful completion of this course.  

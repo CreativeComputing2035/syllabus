@@ -9,6 +9,9 @@ Fall 2016
 Ariel Churi
 churia@newschool.edu
 
+Teaching Assistant:
+Terricka Johnson  johnt626@newschool.edu
+
 GitHub organization: https://github.com/CreativeComputing2035    
 This file: https://github.com/CreativeComputing2035/syllabus
 

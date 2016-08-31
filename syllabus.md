@@ -33,25 +33,108 @@ Creative Computing is designed to introduce students to programming as a creativ
 
 ## Course Outline
 ### Week 01 08/31 
-### Week 02 09/07
-### Week 03 09/14
-### Week 04 09/21
-### Week 05 09/28
-### Week 06 10/05
-### Week 07 10/19
--- No class 10/12
-### Week 08 10/26
-### Week 09 11/02
-### Week 10 11/09
-### Week 11 11/16
-### Week 12 11/22
-### Week 13 11/30
-### Week 14 12/07
-### Week 15 12/14
+- Introductions
+- Computers and data files
+- The Terminal
+- Code editors
+- Git and GitHub
+- Turning in assignments
+- Instruction Art
 
-## Recommended Reading
+**Assignment:** Instruction Art
+
+### Week 02 09/07
+- Instruction Art
+- FTP server
+- HTML
+- HTML file structure
+- Links, anchors, and images
+ 
+**Assignment:** Create a web page
+
+### Week 03 09/14
+- HTML & CSS
+- Browser Dev Tools
+- Examining a web page
+- Inline styles
+- Type
+- Color
+- External styles
+
+**Assignment:** Create a styled web page 2
+
+### Week 04 09/21
+- HTML & JavaScript
+- The script element
+- Writing a function
+- Listening for an event
+- Responding to events
+
+**Assignment:** Create a responsive web page
+
+### Week 05 09/28
+- Coding and comments and whitespace
+- Variables
+- If statements
+- For loops
+
+**Assignment:** 100 Lockers
+
+### Week 06 10/05
+- Numbers
+- Strings
+- Booleans
+
+**Assignment:** Quiz
+
+### Week 07 10/19
+- Objects and References
+- Arrays
+- Regular expressions
+
+### No class 10/12
+
+### Week 08 10/26
+- P5.js unit 1
+
+**Assignment:** Interactive Art
+
+### Week 09 11/02
+- P5.js unit 2
+
+**Assignment:** Fork a fellow student's *Interactive Art*
+
+### Week 10 11/09
+- Studio
+
+### Week 11 11/16
+- *Interactive Art* user testing
+
+**Assignment:** FINAL PROJECT *Non-Linear Documentary/Narrative*
+
+### Week 12 11/22
+- Studio
+
+### Week 13 11/30
+- Studio
+
+### Week 14 12/07
+- Studio
+
+### Week 15 12/14
+FINAL PROJECT PRESENTATION
+
+## Required Reading
+[*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+[*Paragraphs on Conceptual Art*, Sol Lewitt] (https://www.dropbox.com/s/civ8ofgp13opp7v/Paragraphs_on_Conceptual_Art_Sol_LeWitt.pdf?dl=0)
+[Web Design: The First 100 Years, Maciej Cegłowski] (http://idlewords.com/talks/web_design_first_100_years.htm)
+*Toward Aesthetic Guidelines for Paintings with the Aid of a Computer*, Vera Molnar
+*Hackers and Painters*, Paul Graham
+*The Library of Babel*, Jorge Luis Borges
+*The Garden of Forking Paths*, Jorge Luis Borges
 
 ## Materials and Supplies
+-Access to your FTP server.
 
 ## Resources
 The university provides many resources to help students achieve academic and artistic excellence. These resources include:

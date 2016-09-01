@@ -130,22 +130,26 @@ FINAL PROJECT PRESENTATION
 ## Assignments
 ### Instruction Art
 *Instruction art* is usually a short set of instructions which, when executed, is a work of art. Create a text file with instructions which can be completed in the class room.
-Use the GitHub desktop client application to create a repository for your text file in the CreativeComputing2035 organization on GitHub.com. 
+Use the GitHub desktop client application to update a repository you have created your text file in the CreativeComputing2035 organization on GitHub.com. 
 Submit your link on Canvas.
 
 ## Required Reading
-[*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
-[*Paragraphs on Conceptual Art*, Sol Lewitt] (https://www.dropbox.com/s/civ8ofgp13opp7v/Paragraphs_on_Conceptual_Art_Sol_LeWitt.pdf?dl=0)
-[Web Design: The First 100 Years, Maciej Cegłowski] (http://idlewords.com/talks/web_design_first_100_years.htm)
-*Toward Aesthetic Guidelines for Paintings with the Aid of a Computer*, Vera Molnar
-*Hackers and Painters*, Paul Graham
-*The Library of Babel*, Jorge Luis Borges
-*The Garden of Forking Paths*, Jorge Luis Borges
+[*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)   
+[*Paragraphs on Conceptual Art*, Sol Lewitt] (https://www.dropbox.com/s/civ8ofgp13opp7v/Paragraphs_on_Conceptual_Art_Sol_LeWitt.pdf?dl=0)   
+[Web Design: The First 100 Years, Maciej Cegłowski] (http://idlewords.com/talks/web_design_first_100_years.htm)   
+*Toward Aesthetic Guidelines for Paintings with the Aid of a Computer*, Vera Molnar   
+*Hackers and Painters*, Paul Graham   
+*The Library of Babel*, Jorge Luis Borges   
+*The Garden of Forking Paths*, Jorge Luis Borges   
 
 ## Materials and Supplies
 -Access to your FTP server.
 
 ## Resources
+[Unix for Mac Users] (https://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html)   
+[GitHub desktop client] (https://desktop.github.com/)   
+[Git on Lynda.com) (https://www.lynda.com/GitHub-training-tutorials/1384-0.html)
+
 The university provides many resources to help students achieve academic and artistic excellence. These resources include:
 
 - The University (and associated) Libraries: http://library.newschool.edu

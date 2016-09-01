@@ -127,6 +127,12 @@ Creative Computing is designed to introduce students to programming as a creativ
 ### Week 15 12/14
 FINAL PROJECT PRESENTATION
 
+## Assignments
+### Instruction Art
+*Instruction art* is usually a short set of instructions which, when executed, is a work of art. Create a text file with instructions which can be completed in the class room.
+Use the GitHub desktop client application to create a repository for your text file in the CreativeComputing2035 organization on GitHub.com. 
+Submit your link on Canvas.
+
 ## Required Reading
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 [*Paragraphs on Conceptual Art*, Sol Lewitt] (https://www.dropbox.com/s/civ8ofgp13opp7v/Paragraphs_on_Conceptual_Art_Sol_LeWitt.pdf?dl=0)

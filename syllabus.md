@@ -46,6 +46,8 @@ Creative Computing is designed to introduce students to programming as a creativ
 
 **Assignment:** Instruction Art
 
+Research how to access your FTP server. You will need the address, and your name and password.
+
 ### Week 02 09/07
 - Instruction Art
 - FTP server

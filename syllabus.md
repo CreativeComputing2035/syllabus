@@ -152,6 +152,12 @@ Submit your link on Canvas.
 [GitHub desktop client] (https://desktop.github.com/)   
 [Git on Lynda.com) (https://www.lynda.com/GitHub-training-tutorials/1384-0.html)
 
+### Code Editors:
+
+[Brackets - A modern, open source code editor that understands web design.] (http://brackets.io/)
+[Atom] (https://atom.io/)
+[Bare Bones Software | BBEdit 11] (http://www.barebones.com/products/bbedit/)
+
 The university provides many resources to help students achieve academic and artistic excellence. These resources include:
 
 - The University (and associated) Libraries: http://library.newschool.edu

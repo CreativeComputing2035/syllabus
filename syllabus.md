@@ -154,9 +154,9 @@ Submit your link on Canvas.
 
 ### Code Editors:
 
-[Brackets - A modern, open source code editor that understands web design.] (http://brackets.io/)
-[Atom] (https://atom.io/)
-[Bare Bones Software | BBEdit 11] (http://www.barebones.com/products/bbedit/)
+[Brackets - A modern, open source code editor that understands web design.] (http://brackets.io/)   
+[Atom] (https://atom.io/)   
+[Bare Bones Software | BBEdit 11] (http://www.barebones.com/products/bbedit/)   
 
 The university provides many resources to help students achieve academic and artistic excellence. These resources include:
 

@@ -134,6 +134,7 @@ FINAL PROJECT PRESENTATION
 *Instruction art* is usually a short set of instructions which, when executed, is a work of art. Create a text file with instructions which can be completed in the class room.
 Use the GitHub desktop client application to update a repository you have created your text file in the CreativeComputing2035 organization on GitHub.com. 
 Submit your link on Canvas.
+### Type Specimen 
 
 ## Required Reading
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)   
@@ -151,6 +152,8 @@ Submit your link on Canvas.
 [Unix for Mac Users] (https://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html)   
 [GitHub desktop client] (https://desktop.github.com/)   
 [Git on Lynda.com) (https://www.lynda.com/GitHub-training-tutorials/1384-0.html)
+[W3 Schools] (http://www.w3schools.com/)
+[Special Characters] (http://www.w3schools.com/charsets/ref_utf_latin1_supplement.asp)
 
 ### Code Editors:
 

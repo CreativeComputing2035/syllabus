@@ -54,8 +54,10 @@ Research how to access your FTP server. You will need the address, and your name
 - HTML
 - HTML file structure
 - Links, anchors, and images
+
+*Repo:* [HTML] (https://github.com/CreativeComputing2035/html)
  
-**Assignment:** Create a web page
+**Assignment:** Concrete Poetry Choose Your Own Adventure
 
 ### Week 03 09/14
 - HTML & CSS
@@ -65,6 +67,8 @@ Research how to access your FTP server. You will need the address, and your name
 - Type
 - Color
 - External styles
+
+*Repo:* [css] (https://github.com/CreativeComputing2035/css)
 
 **Assignment:** Create a styled web page 2
 

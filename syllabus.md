@@ -158,6 +158,7 @@ Submit your link on Canvas.
 [Git on Lynda.com) (https://www.lynda.com/GitHub-training-tutorials/1384-0.html)
 [W3 Schools] (http://www.w3schools.com/)
 [Special Characters] (http://www.w3schools.com/charsets/ref_utf_latin1_supplement.asp)
+[CSS Tools: Reset CSS] (http://meyerweb.com/eric/tools/css/reset/)
 
 ### Code Editors:
 

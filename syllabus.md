@@ -138,7 +138,44 @@ FINAL PROJECT PRESENTATION
 *Instruction art* is usually a short set of instructions which, when executed, is a work of art. Create a text file with instructions which can be completed in the class room.
 Use the GitHub desktop client application to update a repository you have created your text file in the CreativeComputing2035 organization on GitHub.com. 
 Submit your link on Canvas.
+### Concrete Poetry Choose Your Own Adventure
+Create a repository containing an html site.
+
+Minimum 5 interconnecting html files
+Use correct html syntax
+Use the html tags we learned in class
+Submit a link to your repository. In the repository include a read me file containing a description of your work, your process, and your intention.
+
+https://github.com/CreativeComputing2035/html (Links to an external site.)
+
 ### Type Specimen 
+Create a web type specimen html page in a repository.
+Include:
+- Title / typeface name
+- Alphabet
+- Pangram
+- Headlines
+- Strong
+- Italic
+- Link
+- Paragraphs
+- Section headline
+
+Things to explore:
+- size/leading combinations
+- body copy / section headline relationship.
+- paragraph delimiter
+- anchor link style
+- Headline styles
+
+Nice to have:
+- color backgrounds
+- color typeface
+- justifications
+- What else does a good type spec have?
+
+Extra Credit:
+- A 10 square greyscale from white to black.
 
 ## Required Reading
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)   

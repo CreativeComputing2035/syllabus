@@ -177,6 +177,8 @@ Nice to have:
 Extra Credit:
 - A 10 square greyscale from white to black.
 
+Here is a starter file: [CreatveComputing2035/TypeSpecimen] (https://github.com/CreativeComputing2035/TypeSpecimen)
+
 ## Required Reading
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)   
 [*Paragraphs on Conceptual Art*, Sol Lewitt] (https://www.dropbox.com/s/civ8ofgp13opp7v/Paragraphs_on_Conceptual_Art_Sol_LeWitt.pdf?dl=0)   

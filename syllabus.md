@@ -70,9 +70,20 @@ Research how to access your FTP server. You will need the address, and your name
 
 *Repo:* [css] (https://github.com/CreativeComputing2035/css)
 
-**Assignment:** Create a styled web page 2
+**Assignment:** Typespec 1
 
 ### Week 04 09/21
+- CSS Reset
+- Columns with flex containers
+
+*Assignment:* Typespec 2
+
+### Week 05 09/28
+
+- Creating with HTML & CSS from scratch
+- File Transfer Protocol
+
+### Week 06 10/05
 - HTML & JavaScript
 - The script element
 - Writing a function
@@ -81,7 +92,6 @@ Research how to access your FTP server. You will need the address, and your name
 
 **Assignment:** Create a responsive web page
 
-### Week 05 09/28
 - Coding and comments and whitespace
 - Variables
 - If statements
@@ -89,7 +99,6 @@ Research how to access your FTP server. You will need the address, and your name
 
 **Assignment:** 100 Lockers
 
-### Week 06 10/05
 - Numbers
 - Strings
 - Booleans

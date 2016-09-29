@@ -209,10 +209,11 @@ Consider including:
 	
 Create your webpage in HTML and CSS.
 Experiment with selectors such as float, clear, height, margin, padding, width, position, 
+[W3Schools Basic Box Selectors] (http://www.w3schools.com/cssref/default.asp#basic)
 
 Create a repository for your project. Upload a link to your repository on Canvas.
 
-Here is a starter file: [W3Schools Basic Box Selectors] (http://www.w3schools.com/cssref/default.asp#basic)
+Here is a starter file: [CreativeComputing2035/layout] (https://github.com/CreativeComputing2035/layout)
 
 ## Required Reading
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)   

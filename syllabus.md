@@ -66,7 +66,6 @@ Research how to access your FTP server. You will need the address, and your name
 - Inline styles
 - Type
 - Color
-- External styles
 
 *Repo:* [css] (https://github.com/CreativeComputing2035/css)
 
@@ -75,12 +74,17 @@ Research how to access your FTP server. You will need the address, and your name
 ### Week 04 09/21
 - CSS Reset
 - Columns with flex containers
+- The box model
+- Margins & Padding
+- Backgrounds
 
 *Assignment:* Typespec 2
 
 ### Week 05 09/28
 
 - Creating with HTML & CSS from scratch
+- Pixels and EM spaces
+- External styles
 - File Transfer Protocol
 
 ### Week 06 10/05

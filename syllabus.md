@@ -80,12 +80,19 @@ Research how to access your FTP server. You will need the address, and your name
 
 *Assignment:* Typespec 2
 
+Repo:[CreatveComputing2035/TypeSpecimen] (https://github.com/CreativeComputing2035/TypeSpecimen)
+
 ### Week 05 09/28
 
 - Creating with HTML & CSS from scratch
 - Pixels and EM spaces
 - External styles
 - File Transfer Protocol
+- CSS Positioning
+
+*Assignment:* Layout
+
+Repo: [W3Schools Basic Box Selectors] (http://www.w3schools.com/cssref/default.asp#basic)
 
 ### Week 06 10/05
 - HTML & JavaScript
@@ -191,6 +198,21 @@ Extra Credit:
 - A 10 square greyscale from white to black.
 
 Here is a starter file: [CreatveComputing2035/TypeSpecimen] (https://github.com/CreativeComputing2035/TypeSpecimen)
+
+### Layout
+Create a simple _about me_ webpage layout in a graphics program.
+Consider including:
+	- Headline
+	- Menu items for other pages
+	- Thumbnails for some featured portfolio items
+	- Biographical information
+	
+Create your webpage in HTML and CSS.
+Experiment with selectors such as float, clear, height, margin, padding, width, position, 
+
+Create a repository for your project. Upload a link to your repository on Canvas.
+
+Here is a starter file: [W3Schools Basic Box Selectors] (http://www.w3schools.com/cssref/default.asp#basic)
 
 ## Required Reading
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)   

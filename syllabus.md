@@ -95,6 +95,12 @@ Repo:[CreatveComputing2035/TypeSpecimen] (https://github.com/CreativeComputing20
 Repo: [W3Schools Basic Box Selectors] (http://www.w3schools.com/cssref/default.asp#basic)
 
 ### Week 06 10/05
+- _Layout_ Review
+- Introduce the midterm assignment
+
+*Assignment:* _Midterm_
+
+### Week 07 10/19
 - HTML & JavaScript
 - The script element
 - Writing a function
@@ -116,7 +122,6 @@ Repo: [W3Schools Basic Box Selectors] (http://www.w3schools.com/cssref/default.a
 
 **Assignment:** Quiz
 
-### Week 07 10/19
 - Objects and References
 - Arrays
 - Regular expressions
@@ -214,6 +219,20 @@ Experiment with selectors such as float, clear, height, margin, padding, width, 
 Create a repository for your project. Upload a link to your repository on Canvas.
 
 Here is a starter file: [CreativeComputing2035/layout] (https://github.com/CreativeComputing2035/layout)
+
+### *MIDTERM* My First Webpage. *DUE WEEK 9*
+
+In this assignment you will create a simple portfolio website for yourself.
+
+ 1. Content audit
+	 - Text file listing everythingh you want to include.
+ 2. Site map
+	 - Flow chart showing all of the pages and their relationships.
+ 3. Wireframe
+	 - Black and white sketches of all of the pages with text indicating behaviors. 
+ 4. Photoshop or illustrator render of two of the pages.
+ 5. HTML version of completed site.
+ 6. Finished site in HTML/CSS
 
 ## Required Reading
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)   

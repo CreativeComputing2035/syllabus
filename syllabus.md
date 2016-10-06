@@ -100,6 +100,8 @@ Repo: [W3Schools Basic Box Selectors] (http://www.w3schools.com/cssref/default.a
 
 *Assignment:* _Midterm_
 
+### No class 10/12
+
 ### Week 07 10/19
 - HTML & JavaScript
 - The script element
@@ -126,9 +128,10 @@ Repo: [W3Schools Basic Box Selectors] (http://www.w3schools.com/cssref/default.a
 - Arrays
 - Regular expressions
 
-### No class 10/12
 
 ### Week 08 10/26
+*MIDTERM DUE*
+
 - P5.js unit 1
 
 **Assignment:** Interactive Art
@@ -220,7 +223,7 @@ Create a repository for your project. Upload a link to your repository on Canvas
 
 Here is a starter file: [CreativeComputing2035/layout] (https://github.com/CreativeComputing2035/layout)
 
-### *MIDTERM* My First Webpage. *DUE WEEK 9*
+### *MIDTERM* My First Webpage. *DUE WEEK 8 (10/26)*
 
 In this assignment you will create a simple portfolio website for yourself.
 

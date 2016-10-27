@@ -103,38 +103,29 @@ Repo: [W3Schools Basic Box Selectors] (http://www.w3schools.com/cssref/default.a
 ### No class 10/12
 
 ### Week 07 10/19
+ 
 - HTML & JavaScript
 - The script element
-- Writing a function
-- Listening for an event
-- Responding to events
-
-**Assignment:** Create a responsive web page
-
 - Coding and comments and whitespace
 - Variables
 - If statements
 - For loops
-
-**Assignment:** 100 Lockers
-
 - Numbers
 - Strings
 - Booleans
-
-**Assignment:** Quiz
-
-- Objects and References
 - Arrays
-- Regular expressions
-
 
 ### Week 08 10/26
+ 
+- Writing a function
+- Listening for an event
+- Responding to events
+
+Repo: [Javascript] (https://github.com/CreativeComputing2035/javascript)
+
 *MIDTERM DUE*
 
-- P5.js unit 1
-
-**Assignment:** Interactive Art
+*Assignment:* Javascript Practice
 
 ### Week 09 11/02
 - P5.js unit 2
@@ -236,6 +227,14 @@ In this assignment you will create a simple portfolio website for yourself.
  4. Photoshop or illustrator render of two of the pages.
  5. HTML version of completed site.
  6. Finished site in HTML/CSS
+
+### Javascript Practice
+Choose one or more of the following problems:
+- 100 Lockers - 100 students pass 100 lockers. The first student opens every locker. The second student skips the first locker and closes every 2nd locker. The third student skips the first two lockers and toggles every third locker (closes it if it open and opens it if it closed). How many lockers are closed after all 100 have passed? How can javascript solve this problem? Use arrays and for loops.
+- Pythagorean theorem - Create a function that you can call with two arguments in order to solve for the hypotenuse.
+- Create a partial advent calendar using onClick functions.
+
+You do not need to be succesful but you do need to try.
 
 ## Required Reading
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)   

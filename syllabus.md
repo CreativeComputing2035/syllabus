@@ -123,6 +123,8 @@ Repo: [W3Schools Basic Box Selectors] (http://www.w3schools.com/cssref/default.a
 
 Repo: [Javascript] (https://github.com/CreativeComputing2035/javascript)
 
+[Javascript Reference] ( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference )
+
 *MIDTERM DUE*
 
 *Assignment:* Javascript Practice

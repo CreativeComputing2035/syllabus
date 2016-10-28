@@ -257,6 +257,7 @@ You do not need to be succesful but you do need to try.
 [W3 Schools] (http://www.w3schools.com/)
 [Special Characters] (http://www.w3schools.com/charsets/ref_utf_latin1_supplement.asp)
 [CSS Tools: Reset CSS] (http://meyerweb.com/eric/tools/css/reset/)
+[Javascript Reference] ( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference )
 
 ### Code Editors:
 

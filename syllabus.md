@@ -259,6 +259,18 @@ You do not need to be succesful but you do need to try.
 [CSS Tools: Reset CSS] (http://meyerweb.com/eric/tools/css/reset/)
 [Javascript Reference] ( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference )
 
+### FTP ( File Transfer Protocol )
+You should have received access to a folder on the newschool servers from IT services. If not you will need to get that information from them. Inside this folder (also known as a directory) is another folder named *public_html*. This folder is viewable online at the address you have received.
+
+To access this folder and upload your site:
+- Open the application _Terminal_ on your computer.
+- Navigate to the folder containing your site's folder using the *cd* command. example: cd Documents/school/creative\ computing/
+- You can check the contents of this folder with *ls* (list). The folder containg your site should be in this list of files and folders.
+- Next you will access the remote folder with _sftp_. sftp -P 222 yourUserName@b.parsons.edu.
+- After entering your password you will be in the remote server. *ls* to list the contents of a folder. *cd public_html* to move into that folder.
+- Now you can use the *put* command. *put -R mySiteFolder. Your site is now online. and available at the http://b.parsons.edu/~yourUserName/yourSiteFolder
+
+
 ### Code Editors:
 
 [Brackets - A modern, open source code editor that understands web design.] (http://brackets.io/)   

@@ -130,7 +130,7 @@ Repo: [Javascript] (https://github.com/CreativeComputing2035/javascript)
 *Assignment:* Javascript Practice
 
 ### Week 09 11/02
-
+[Javascript2](https://github.com/CreativeComputing2035/javascript2)
 **Assignment:** Fork a fellow student's *Interactive Art*
 
 ### Week 10 11/09

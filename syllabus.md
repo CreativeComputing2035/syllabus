@@ -130,10 +130,15 @@ Repo: [Javascript] (https://github.com/CreativeComputing2035/javascript)
 *Assignment:* Javascript Practice
 
 ### Week 09 11/02
+
 [Javascript2](https://github.com/CreativeComputing2035/javascript2)
+
 *Reading / Media*
+
 [How to / Why Make Internet Art](http://netart.rocks)
+
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+
 ### Week 10 11/09
 - Studio
 

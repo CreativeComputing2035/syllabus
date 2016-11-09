@@ -247,6 +247,7 @@ You do not need to be succesful but you do need to try.
 [How to / Why Make Internet Art](http://netart.rocks)
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 [*Paragraphs on Conceptual Art*, Sol Lewitt] (https://www.dropbox.com/s/civ8ofgp13opp7v/Paragraphs_on_Conceptual_Art_Sol_LeWitt.pdf?dl=0)
+[Guide to Website Navigation]( http://sixrevisions.com/user-interface/navigation-design-patterns/)
 [Web Design: The First 100 Years, Maciej Cegłowski] (http://idlewords.com/talks/web_design_first_100_years.htm)
 *Toward Aesthetic Guidelines for Paintings with the Aid of a Computer*, Vera Molnar
 *Hackers and Painters*, Paul Graham
@@ -264,7 +265,6 @@ You do not need to be succesful but you do need to try.
 [Special Characters] (http://www.w3schools.com/charsets/ref_utf_latin1_supplement.asp)
 [CSS Tools: Reset CSS] (http://meyerweb.com/eric/tools/css/reset/)
 [Javascript Reference] ( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference )
-
 
 ### FTP ( File Transfer Protocol )
 You should have received access to a folder on the newschool servers from IT services. If not you will need to get that information from them. Inside this folder (also known as a directory) is another folder named *public_html*. This folder is viewable online at the address you have received.

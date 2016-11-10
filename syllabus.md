@@ -140,20 +140,17 @@ Repo: [Javascript] (https://github.com/CreativeComputing2035/javascript)
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 ### Week 10 11/09
+
 + Reviewing the DOM (Document Object Model)
 + Finding information in the Javascript Reference
 
 **Assignment:** Net Art
 
-[How to / Why Make Internet Art](http://netart.rocks)
+*Reading / Media*
 
-Use (mostly) Javascript to create a work of Net Art.
+[The Internet] (http://netart.rocks/howto/the-internet)
 
-How to turn in this assignment:
-Turn in a link to your GitHub repo.
-In the README file or your GitHub repo write what you intended to create.
-Include a link to your net art on your FTP site.
-Insure that your link works.
+[*Paragraphs on Conceptual Art*, Sol Lewitt] (https://www.dropbox.com/s/civ8ofgp13opp7v/Paragraphs_on_Conceptual_Art_Sol_LeWitt.pdf?dl=0)
 
 ### Week 11 11/16
 - *Interactive Art* user testing
@@ -257,7 +254,17 @@ Choose one or more of the following problems:
 You do not need to be succesful but you do need to try.
 
 ### Net Art
-Use Javascript to create a work of Net Art.
+
+[How to / Why Make Internet Art](http://netart.rocks)
+
+Use (mostly) Javascript to create a work of Net Art.
+
+How to turn in this assignment:
+Turn in a link to your GitHub repo.
+In the README file or your GitHub repo write what you intended to create.
+Include a link to your net art on your FTP site.
+Insure that your link works.
+
 ## Required Reading / Media
 [How to / Why Make Internet Art](http://netart.rocks)
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)

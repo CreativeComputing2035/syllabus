@@ -177,15 +177,16 @@ Submit your link on Canvas.
 ### Concrete Poetry Choose Your Own Adventure
 Create a repository containing an html site.
 
-Minimum 5 interconnecting html files
-Use correct html syntax
-Use the html tags we learned in class
-Submit a link to your repository. In the repository include a read me file containing a description of your work, your process, and your intention.
+- Minimum 5 interconnecting html files
+- Use correct html syntax
+- Use the html tags we learned in class
+- Submit a link to your repository. In the repository include a read me file containing a description of your work, your process, and your intention.
 
 https://github.com/CreativeComputing2035/html (Links to an external site.)
 
 ### Type Specimen
 Create a web type specimen html page in a repository.
+
 Include:
 - Title / typeface name
 - Alphabet
@@ -266,27 +267,44 @@ Include a link to your net art on your FTP site.
 Insure that your link works.
 
 ## Required Reading / Media
+
 [How to / Why Make Internet Art](http://netart.rocks)
+
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+
 [*Paragraphs on Conceptual Art*, Sol Lewitt] (https://www.dropbox.com/s/civ8ofgp13opp7v/Paragraphs_on_Conceptual_Art_Sol_LeWitt.pdf?dl=0)
+
 [Guide to Website Navigation]( http://sixrevisions.com/user-interface/navigation-design-patterns/)
+
 [Web Design: The First 100 Years, Maciej Cegłowski] (http://idlewords.com/talks/web_design_first_100_years.htm)
+
 *Toward Aesthetic Guidelines for Paintings with the Aid of a Computer*, Vera Molnar
+
 *Hackers and Painters*, Paul Graham
+
 *The Library of Babel*, Jorge Luis Borges
+
 *The Garden of Forking Paths*, Jorge Luis Borges
 
 ## Materials and Supplies
 -Access to your FTP server.
 
 ## Resources
+
 [Unix for Mac Users] (https://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html)
+
 [GitHub desktop client] (https://desktop.github.com/)
+
 [Git on Lynda.com) (https://www.lynda.com/GitHub-training-tutorials/1384-0.html)
+
 [W3 Schools] (http://www.w3schools.com/)
+
 [Special Characters] (http://www.w3schools.com/charsets/ref_utf_latin1_supplement.asp)
+
 [CSS Tools: Reset CSS] (http://meyerweb.com/eric/tools/css/reset/)
+
 [Javascript Reference] ( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference )
+
 ### FTP ( File Transfer Protocol )
 You should have received access to a folder on the newschool servers from IT services. If not you will need to get that information from them. Inside this folder (also known as a directory) is another folder named *public_html*. This folder is viewable online at the address you have received.
 

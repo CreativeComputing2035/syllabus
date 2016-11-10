@@ -140,7 +140,20 @@ Repo: [Javascript] (https://github.com/CreativeComputing2035/javascript)
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 ### Week 10 11/09
-- Studio
++ Reviewing the DOM (Document Object Model)
++ Finding information in the Javascript Reference
+
+**Assignment:** Net Art
+
+[How to / Why Make Internet Art](http://netart.rocks)
+
+Use (mostly) Javascript to create a work of Net Art.
+
+How to turn in this assignment:
+Turn in a link to your GitHub repo.
+In the README file or your GitHub repo write what you intended to create.
+Include a link to your net art on your FTP site.
+Insure that your link works.
 
 ### Week 11 11/16
 - *Interactive Art* user testing
@@ -243,6 +256,8 @@ Choose one or more of the following problems:
 
 You do not need to be succesful but you do need to try.
 
+### Net Art
+Use Javascript to create a work of Net Art.
 ## Required Reading / Media
 [How to / Why Make Internet Art](http://netart.rocks)
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
@@ -265,7 +280,6 @@ You do not need to be succesful but you do need to try.
 [Special Characters] (http://www.w3schools.com/charsets/ref_utf_latin1_supplement.asp)
 [CSS Tools: Reset CSS] (http://meyerweb.com/eric/tools/css/reset/)
 [Javascript Reference] ( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference )
-
 ### FTP ( File Transfer Protocol )
 You should have received access to a folder on the newschool servers from IT services. If not you will need to get that information from them. Inside this folder (also known as a directory) is another folder named *public_html*. This folder is viewable online at the address you have received.
 

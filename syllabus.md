@@ -265,7 +265,7 @@ You do not need to be succesful but you do need to try.
 
 [How to / Why Make Internet Art](http://netart.rocks)
 
-Use (mostly) Javascript to create a work of Net Art.
+Use jQuery to create a work of Net Art.
 
 How to turn in this assignment:
 Turn in a link to your GitHub repo.

@@ -144,7 +144,7 @@ Repo: [Javascript] (https://github.com/CreativeComputing2035/javascript)
 + Reviewing the DOM (Document Object Model)
 + Finding information in the Javascript Reference
 
-**Assignment:** Net Art
+**Assignment:** Net Art (Javascript version) :EXTRA CREDIT:
 
 *Reading / Media*
 
@@ -153,9 +153,16 @@ Repo: [Javascript] (https://github.com/CreativeComputing2035/javascript)
 [*Paragraphs on Conceptual Art*, Sol Lewitt] (https://www.dropbox.com/s/civ8ofgp13opp7v/Paragraphs_on_Conceptual_Art_Sol_LeWitt.pdf?dl=0)
 
 ### Week 11 11/16
-- *Interactive Art* user testing
 
-**Assignment:** FINAL PROJECT *Non-Linear Documentary/Narrative*
+#### jQuery ####
+
+[jQuery example repository](https://github.com/CreativeComputing2035/jquery1)
+
+**Assignment:** Net Art (jQuery version)
+
+*Reading / Media*
+
+[The Internet] (http://netart.rocks)
 
 ### Week 12 11/22
 - Studio
@@ -304,6 +311,8 @@ Insure that your link works.
 [CSS Tools: Reset CSS] (http://meyerweb.com/eric/tools/css/reset/)
 
 [Javascript Reference] ( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference )
+
+[Get Started with the Google Fontns API] (https://developers.google.com/fonts/docs/getting_started)
 
 ### FTP ( File Transfer Protocol )
 You should have received access to a folder on the newschool servers from IT services. If not you will need to get that information from them. Inside this folder (also known as a directory) is another folder named *public_html*. This folder is viewable online at the address you have received.

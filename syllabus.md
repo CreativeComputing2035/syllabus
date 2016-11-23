@@ -153,7 +153,6 @@ Repo: [Javascript] (https://github.com/CreativeComputing2035/javascript)
 [*Paragraphs on Conceptual Art*, Sol Lewitt] (https://www.dropbox.com/s/civ8ofgp13opp7v/Paragraphs_on_Conceptual_Art_Sol_LeWitt.pdf?dl=0)
 
 ### Week 11 11/16
-
 #### jQuery ####
 
 [jQuery example repository](https://github.com/CreativeComputing2035/jquery1)
@@ -165,7 +164,8 @@ Repo: [Javascript] (https://github.com/CreativeComputing2035/javascript)
 [The Internet] (http://netart.rocks)
 
 ### Week 12 11/22
-- Studio
+* jQuery practice *
+* Assignment: * jQuery2
 
 ### Week 13 11/30
 - Studio
@@ -272,6 +272,20 @@ Turn in a link to your GitHub repo.
 In the README file or your GitHub repo write what you intended to create.
 Include a link to your net art on your FTP site.
 Insure that your link works.
+
+### jQuery2
+
+[jQuery2 Repository] (https://github.com/CreativeComputing2035/jquery2)
+
++ Copy the jQuery2 Repository.
++ Make the following changes:
+    + Clicking square 1 replaces the "placeholder text" with the quote.
+    + Double clicking square 1 replaces the quote with a new quote.
+    + MouseOver square2 starts an animation effect on square 3.
+    + Add three more squares to the bottom of the document but have them be 100px by 100px and pink.
+    + Create two input boxes and a button.
+    + Putting a number in the first and a color in the second box will color that square on button press.
+        + So if you put in "2" and "Blue", the second box will turn blue.
 
 ## Required Reading / Media
 
